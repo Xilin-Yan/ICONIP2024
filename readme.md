@@ -1,4 +1,4 @@
-# Channel Pruning with XXX Grouping for Efficient Medical Image Segmentation
+# CPG: Channel Pruning with DFS Guided Grouping for Efficient Medical Image Segmentation
 
 ## Installation
 
